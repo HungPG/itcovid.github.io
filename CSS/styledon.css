@@ -1,0 +1,130 @@
+#logo{
+    margin: 0;
+    width: 150px;
+}
+#border-1:hover{
+    background-color: black;
+    transition-duration: 0.4s;
+}
+
+#border-2:hover{
+    background-color: black;
+    transition-duration: 0.4s;
+}
+
+#border-3:hover{
+    background-color: black;
+    transition-duration: 0.4s;
+}
+
+#border-4:hover{
+    background-color: black;
+    transition-duration: 0.4s;
+}
+
+#border-5:hover{
+    background-color: black;
+    transition-duration: 0.4s;
+}
+
+#border-6:hover{
+    background-color: black;
+    transition-duration: 0.4s;
+}
+
+.menu{
+    background-color: white;
+    text-decoration: none;
+    color: white;
+    font-family: avenir-lt-w01_85-heavy1475544,sans-serif;
+    margin-top: -14px;
+}
+
+
+#all-menu-1{
+    text-align: right;
+    font-size: 20px;
+    margin-right: -10px;
+    display:flex;
+    justify-content:flex-end;
+    margin-top: -69px;
+    width: 1528px;
+}
+#border-1{
+    height: 80px;
+    width: 130px;
+    background-color:  blue;
+    color: yellow;
+    text-align: center;
+}
+
+#border-2{
+    height: 80px;
+    width: 130px;
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}
+#border-4{
+    height: 80px;
+    width: 130px;
+    background-color: blue;
+    color: yellow;
+    text-align: center;
+}
+
+#border-5{
+    height: 80px;
+    width: 130px;
+    background-color:yellow;
+    color: blue;
+    text-align: center;
+}
+
+#border-6{
+    height: 80px;
+    width: 130px;
+    background-color:blue;
+    color: yellow;
+    text-align: center;
+}
+.dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    width: 300px;
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown a:hover {background-color: #ddd;}
+  
+  .show {display: block;}
